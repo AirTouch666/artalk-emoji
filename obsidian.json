@@ -1,0 +1,224 @@
+[
+  {
+    "name": "blobcat",
+    "type": "image",
+    "items": [
+      {
+        "key": "blobcat-0_0",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcat0_0.png"
+      },
+      {
+        "key": "blobcat-备用",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatalt.png"
+      },
+      {
+        "key": "blobcat-生气",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatangry.png"
+      },
+      {
+        "key": "blobcat-注意反转",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatattentionreverse.png"
+      },
+      {
+        "key": "blobcat-脸红",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatblush.png"
+      },
+      {
+        "key": "blobcat-盒子",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatbox.png"
+      },
+      {
+        "key": "blobcat-笼子",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcaged.png"
+      },
+      {
+        "key": "blobcat-咖啡",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcoffee.png"
+      },
+      {
+        "key": "blobcat-舒适流泪",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcomftears.png"
+      },
+      {
+        "key": "blobcat-舒适",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcomfy.png"
+      },
+      {
+        "key": "blobcat-哭泣",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcry.png"
+      },
+      {
+        "key": "blobcat-死了",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatdead.png"
+      },
+      {
+        "key": "blobcat-困扰",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatdisturbed.png"
+      },
+      {
+        "key": "blobcat-捂脸",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatfacepalm.png"
+      },
+      {
+        "key": "blobcat-恐惧",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatfearful.png"
+      },
+      {
+        "key": "blobcat-手枪",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatfingerguns.png"
+      },
+      {
+        "key": "blobcat-翻",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatflip.png"
+      },
+      {
+        "key": "blobcat-花",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatflower.png"
+      },
+      {
+        "key": "blobcat-同性恋",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgay.png"
+      },
+      {
+        "key": "blobcat-垃圾",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgooglytrash.png"
+      },
+      {
+        "key": "blobcat-耳机",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheadphones.png"
+      },
+      {
+        "key": "blobcat-心",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheart.png"
+      },
+      {
+        "key": "blobcat-心碎",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheartbroken.png"
+      },
+      {
+        "key": "blobcat-心自豪",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheartpride.png"
+      },
+      {
+        "key": "blobcat-击掌",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcathighfive.png"
+      },
+      {
+        "key": "blobcat-亲吻心",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatkissheart.png"
+      },
+      {
+        "key": "blobcat-爱",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatlove.png"
+      },
+      {
+        "key": "blobcat-融化",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatmelt.png"
+      },
+      {
+        "key": "blobcat-融化拇指",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatmeltthumb.png"
+      },
+      {
+        "key": "blobcat-中性",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatneutral.png"
+      },
+      {
+        "key": "blobcat-咬头",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatnomblobcat.png"
+      },
+      {
+        "key": "blobcat-不像这样",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatnotlikethis.png"
+      },
+      {
+        "key": "blobcat-张嘴",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatopenmouth.png"
+      },
+      {
+        "key": "blobcat-偷看2",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpeek2.png"
+      },
+      {
+        "key": "blobcat-躲猫猫",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpeekaboo.png"
+      },
+      {
+        "key": "blobcat-照片",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatphoto.png"
+      },
+      {
+        "key": "blobcat-警察",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpolice.png"
+      },
+      {
+        "key": "blobcat-红色礼物",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpresentred.png"
+      },
+      {
+        "key": "blobcat-彩虹",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatrainbow.png"
+      },
+      {
+        "key": "blobcat-反向伸手",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatreachrev.png"
+      },
+      {
+        "key": "blobcat-阅读",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatread.png"
+      },
+      {
+        "key": "blobcat-伸手",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsadreach.png"
+      },
+      {
+        "key": "blobcat-一拳超人",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsaitama.png"
+      },
+      {
+        "key": "blobcat-害怕",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatscared.png"
+      },
+      {
+        "key": "blobcat-震惊",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatshocked.png"
+      },
+      {
+        "key": "blobcat-喝汗",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsipsweat.png"
+      },
+      {
+        "key": "blobcat-发火",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsnapped.png"
+      },
+      {
+        "key": "blobcat-依偎",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsnuggle.png"
+      },
+      {
+        "key": "blobcat-思考",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatthink.png"
+      },
+      {
+        "key": "blobcat-胜利",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcattriumph.png"
+      },
+      {
+        "key": "blobcat-嗯",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatumm.png"
+      },
+      {
+        "key": "blobcat-验证",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatverified.png"
+      },
+      {
+        "key": "blobcat-挥手",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatwave.png"
+      },
+      {
+        "key": "blobcat-病态",
+        "val": "https://cdn.jsdmirror.com/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatyandere.png"
+      }
+    ]
+  }
+]
