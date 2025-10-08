@@ -1,5 +1,99 @@
 [
   {
+  "name": "AirTouch",
+  "type": "image",
+  "items": [
+    {
+      "key": "airtouch-爱你",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b27788a8.png"
+    },
+    {
+      "key": "airtouch-自豪",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1ec9cac.png"
+    },
+    {
+      "key": "airtouch-欧耶",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1819dc3.png"
+    },
+    {
+      "key": "airtouch-哈哈",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1f9855a.png"
+    },
+    {
+      "key": "airtouch-开心",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1ce938c.png"
+    },
+    {
+      "key": "airtouch-点赞",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b24df314.png"
+    },
+    {
+      "key": "airtouch-加油",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1ddfd14.png"
+    },
+    {
+      "key": "airtouch-微笑",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1b0e335.png"
+    },
+    {
+      "key": "airtouch-吃瓜",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1927c0d.png"
+    },
+    {
+      "key": "airtouch-尴尬的笑",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1c07791.png"
+    },
+    {
+      "key": "airtouch-思考",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1a3a6b9.png"
+    },
+    {
+      "key": "airtouch-奇怪",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b206afc6.png"
+    },
+    {
+      "key": "airtouch-疑惑",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b2409fc3.png"
+    },
+    {
+      "key": "airtouch-震惊",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b165bd75.png"
+    },
+    {
+      "key": "airtouch-无奈",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1744d94.png"
+    },
+    {
+      "key": "airtouch-冷漠",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b2148fa1.png"
+    },
+    {
+      "key": "airtouch-叹气",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b269cda4.png"
+    },
+    {
+      "key": "airtouch-不开心",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b222cf4c.png"
+    },
+    {
+      "key": "airtouch-生病",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b1538899.png"
+    },
+    {
+      "key": "airtouch-大哭",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b25c9881.png"
+    },
+    {
+      "key": "airtouch-咬牙切齿",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b2314873.png"
+    },
+    {
+      "key": "airtouch-生气",
+      "val": "https://bu.dusays.com/2025/10/08/68e62b285dc69.png"
+    }
+    ]
+  },
+  {
     "name": "blobcat",
     "type": "image",
     "items": [
@@ -222,7 +316,7 @@
     ]
   },
   {
-    "name": "小电视",
+    "name": "bilibili",
     "type": "image",
     "items": [
       {
@@ -312,7 +406,7 @@
     ]
   },
   {
-    "name": "猫猫虫",
+    "name": "capoo",
     "type": "image",
     "items": [
       {
