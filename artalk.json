@@ -48,12 +48,8 @@
       "val": "https://bu.dusays.com/2025/10/08/68e62b1a3a6b9.png"
     },
     {
-      "key": "airtouch-奇怪",
-      "val": "https://bu.dusays.com/2025/10/08/68e62b206afc6.png"
-    },
-    {
       "key": "airtouch-疑惑",
-      "val": "https://bu.dusays.com/2025/10/08/68e62b2409fc3.png"
+      "val": "https://bu.dusays.com/2025/10/08/68e638a0d6b0e.png"
     },
     {
       "key": "airtouch-震惊",
@@ -94,7 +90,7 @@
     ]
   },
   {
-    "name": "blobcat",
+    "name": "小猫猫",
     "type": "image",
     "items": [
       {
@@ -316,7 +312,7 @@
     ]
   },
   {
-    "name": "bilibili",
+    "name": "小电视",
     "type": "image",
     "items": [
       {
@@ -406,7 +402,7 @@
     ]
   },
   {
-    "name": "capoo",
+    "name": "猫猫虫",
     "type": "image",
     "items": [
       {
